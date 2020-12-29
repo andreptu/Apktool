@@ -1,0 +1,1 @@
+Do not write any comment in the upgrade scripts!!
